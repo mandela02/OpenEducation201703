@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">HomeWorkFile4</string>
+=======
+    <string name="app_name">Android_06</string>
+>>>>>>> 9779cecae63d08524c86289041d731e3766773b1
 </resources>
