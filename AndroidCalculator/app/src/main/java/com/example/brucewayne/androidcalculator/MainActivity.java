@@ -227,7 +227,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                         Result.setText(strNum);
                     } else {
                         strNum = "";
-                        firstNumber = Float.parseFloat(strNum);
                         Result.setText(strNum);
                     }
                 }
